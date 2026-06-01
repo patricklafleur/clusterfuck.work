@@ -1,2 +1,3 @@
 id: ca.patricklafleur.work
-workspaces: []
+workspaces:
+    - name: etats-financiers
