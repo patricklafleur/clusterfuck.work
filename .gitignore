@@ -1,0 +1,4 @@
+# Managed by 'cf cluster' — do not edit.
+# Runtime (index, logs) and workspaces are never committed to the cluster repo.
+.clusterfuck/
+*.local.yml
