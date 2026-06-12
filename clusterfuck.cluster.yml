@@ -1,3 +1,4 @@
 id: ca.patricklafleur.work
 workspaces:
     - path: etats-financiers
+    - path: apple

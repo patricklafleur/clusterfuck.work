@@ -1,6 +1,4 @@
 # Managed by 'cf cluster' — do not edit.
-# Runtime (index, logs) and workspaces are never committed to the cluster repo.
+# Runtime (index, logs) and remote workspaces are never committed to the cluster repo.
 .clusterfuck/
 *.local.yml
-
-# etats-financiers/
